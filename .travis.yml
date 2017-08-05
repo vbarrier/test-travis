@@ -1,0 +1,10 @@
+language: php
+notifications:
+	webhooks:
+		urls:
+			- http://77.141.162.23:8080/icescrum/p/PETA/build
+		on_success: always 
+    		on_failure: always
+    		on_start: never
+    		on_cancel: always 
+    		on_error: always
