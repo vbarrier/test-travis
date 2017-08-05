@@ -2,7 +2,7 @@ language: php
 notifications:
    webhooks:
       urls:
-         - http://77.141.162.23:8080/icescrum/p/PETA/build
+      	secure: "Tpd9MG2+OBw/2QPdwbjsah10wnXLIDsZn6q+IA3fv0F0crrIVNu2S8invMXIApVTLEmlLNQTyQ0QR/O3+YzKqeVRiZ9mTInraUTssGMqrMMxZdYq36lTGGuvxxawhFLJywlqhYmZ10VTZnTlkCrMLpEetacf6ZUAhxgh2l+fS/2tF7PM68HqKg0O2uOVR8qghQMnASsFSaxyJEaL8lK00ptWi+UnMBfWHcuEXy54G/3waClJrvAD3p4LnXnsTBlyrqM1I378w/Dp370mGpydup65GgnncnDE2yKwM2c2M9/y07IOJuhvmhBgAqRIJERNu0zcA4a7r8G6CLUqkO5nUOp+Z8b96KDNiauD+UpgLJRFaixLFVyxgXi3rD8uC7Tvsi3r3X1sbByrkiNpB3qC0XTgJ47P7mA/Bh/i1yPBoGm4ozqp9sSxaedfYm/daV7ydi2jdbJf9xbvpLtSBbna5kTa9dUSuvUvS8jhqBT8NL7iS7qGgFnZ7r0ArJ3tRZe1c5B3s/S657C+1sg+zuPs6X7f4XAp3CMUOxBZMvOW8+5Lxy7Kx0AcIf01Z/mgzRAshRkyDnFyUMUgHxPUNVSklM2FrvcneIftOTzq8GI9Ah9pADHufJ12nTT9p97fHs3S+VLAW9esA2oXOE2WVW6deCVvTDTSXvAtRp9NW3QH0S0=" 
       on_success: always 
       on_failure: always
       on_start: never
