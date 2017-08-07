@@ -9,4 +9,3 @@ notifications:
     on_cancel: always
     on_error: always
 
-
