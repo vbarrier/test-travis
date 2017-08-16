@@ -8,8 +8,3 @@ notifications:
     on_start: never
     on_cancel: always
     on_error: always
-
-
-
-
-
